@@ -1,0 +1,6 @@
+{
+  "name": "Floating 2FA Ball",
+  "description": "একটি ভাসমান বল যা ক্লিপবোর্ড থেকে 2FA কী নিয়ে তাৎক্ষণিকভাবে TOTP কোড জেনারেট করে। এতে নিওন লাইট, সাউন্ড এবং ভাইব্রেশন ইফেক্ট রয়েছে।",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
